@@ -112,7 +112,7 @@ export default class Sidebar extends React.Component{
                         </ul>
                         <div className="clearfix"></div>
 
-                        <button style={{marginLeft:"50px", width:"150px"}} className="btn btn-primary">Add Project</button>
+                        <button style={{marginLeft:"50px", width:"150px", backgroundColor:"	#7B68EE"}} className="btn btn-primary">Add Project</button>
                     </div>
                     <div className="clearfix"></div>
                 </div></div>

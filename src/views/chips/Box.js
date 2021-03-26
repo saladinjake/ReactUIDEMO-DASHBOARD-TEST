@@ -21,7 +21,7 @@ export default class Box extends React.Component{
 
               <div className="row container" style={{marginTop:"30px"}}>
                     <a href="#"><div className="col-sm-6  col-md-6 col-lg-3">
-                        <div className="widget-bg-color-icon card-box" style={{backgroundColor:"purple"}}>
+                        <div className="widget-bg-color-icon card-box" style={{backgroundColor:"#9400D3"}}>
                             <div className="bg-icon bg-icon-custom pull-left">
                                 <img style={{height:"20px",width:"20px"}} src="https://cdn2.iconfinder.com/data/icons/transparent-round-icons/512/home.png" />
                                 <h3 className="text-dark"><b className="" style={{color:"#fff",fontSize:"15px"}}>Stock Total</b></h3>
@@ -37,7 +37,7 @@ export default class Box extends React.Component{
 
 
                   <a href="#"><div className="col-sm-6  col-md-6 col-lg-3">
-                      <div className="widget-bg-color-icon card-box" style={{backgroundColor:"darkblue"}} >
+                      <div className="widget-bg-color-icon card-box" style={{backgroundColor:"#7B68EE"}} >
                           <div className="bg-icon bg-icon-custom pull-left">
                           <img style={{height:"20px",width:"20px"}} src="https://cdn2.iconfinder.com/data/icons/transparent-round-icons/512/home.png" />
                           <h3 className="text-dark"><b className="" style={{color:"#fff", fontSize:"15px"}}>Total profit</b></h3>
