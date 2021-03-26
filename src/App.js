@@ -1,5 +1,8 @@
 import React from 'react';
-import './App.css';
+//import all css here
+import './core.css';  //the main styling
+
+import './responsive.css';  // making some components responsive
 import { Switch, Route} from 'react-router-dom';
 import Home from './views/Home';
 
