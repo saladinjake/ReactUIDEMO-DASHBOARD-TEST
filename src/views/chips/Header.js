@@ -44,7 +44,7 @@ export default class Header extends React.Component{
                 <li className="dropdown top-menu-item-xs" style={{marginRight:"-40px"}}>
 								<a href="topup-wallet.html" className="text-custom header-title wallet-balance-top hidden-xs">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Google_Duo_icon.svg/768px-Google_Duo_icon.svg.png
-" style={{width:"40px",height: "40px", borderRadius:"50%"}} />
+" style={{width:"20px",height: "20px", borderRadius:"50%"}} />
 
                 </a>
 								</li>
@@ -52,7 +52,7 @@ export default class Header extends React.Component{
                 <li className="dropdown top-menu-item-xs" style={{marginRight:"-40px"}}>
 								<a href="topup-wallet.html" className="text-custom header-title wallet-balance-top hidden-xs">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Google_Duo_icon.svg/768px-Google_Duo_icon.svg.png
-" style={{width:"40px",height: "40px", borderRadius:"50%"}} />
+" style={{width:"20px",height: "20px", borderRadius:"50%"}} />
 
                 </a>
 								</li>
@@ -60,7 +60,7 @@ export default class Header extends React.Component{
 								<a href="topup-wallet.html" className="text-custom header-title wallet-balance-top hidden-xs">
 
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Google_Duo_icon.svg/768px-Google_Duo_icon.svg.png
-" style={{width:"40px",height: "40px", borderRadius:"50%"}} />
+" style={{width:"20px",height: "20px", borderRadius:"50%"}} />
 
                      </a>
 								</li>
