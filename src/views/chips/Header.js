@@ -18,7 +18,7 @@ export default class Header extends React.Component{
                     <div className="container">
                         <div className="">
                             <div className="pull-left" >
-                            <a href="#" className="waves-effect waves-light" style={{fontSize: "40px"}}>BlueBox</a>
+                            <a href="#" className="waves-effect waves-light" style={{fontWeight: "bold",fontSize: "30px", marginLeft: "20px"}}>BlueBox</a>
 
                             </div>
 
