@@ -8,4 +8,4 @@ In the project directory, you can run:
 
 
 ### Screen shot
-![alt text](https://github.com/saladinjake/uidemo/blob/master/public/ui-sample.png?raw=true)
+![alt text](https://github.com/saladinjake/uidemo/blob/master/public/ui-sample.PNG?raw=true)
